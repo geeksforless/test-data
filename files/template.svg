@@ -1,0 +1,18 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1748 2480" width="1748" height="2480">
+	<title>template</title>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #ddedee } 
+		.t1 { font-size: 124px;fill: #1a1a1a;font-weight: 300;font-family: "TanoheSans-Light", "Tanohe Sans" } 
+		.t2 { font-size: 50px;fill: #1a1a1a;font-weight: 500;font-family: "CormorantSC-Medium", "Cormorant SC" } 
+	</style>
+	<path id="Background" class="s0" d="m0 0h1748v2480h-1748z" />
+	<text id="Sample Header 1" style="transform: matrix(1,0,0,1,69,1237.96)" >
+		<tspan x="0" y="0" class="t1">S</tspan><tspan  y="0" class="t1">a</tspan><tspan  y="0" class="t1">m</tspan><tspan  y="0" class="t1">p</tspan><tspan  y="0" class="t1">l</tspan><tspan  y="0" class="t1">e</tspan><tspan  y="0" class="t1"> </tspan><tspan  y="0" class="t1">H</tspan><tspan  y="0" class="t1">e</tspan><tspan  y="0" class="t1">a</tspan><tspan  y="0" class="t1">d</tspan><tspan  y="0" class="t1">e</tspan><tspan  y="0" class="t1">r</tspan><tspan  y="0" class="t1"> </tspan><tspan  y="0" class="t1">
+</tspan>
+	</text>
+	<text id="Another text" style="transform: matrix(1,0,0,1,444,1997.36)" >
+		<tspan x="0" y="0" class="t2">A</tspan><tspan  y="0" class="t2">n</tspan><tspan  y="0" class="t2">o</tspan><tspan  y="0" class="t2">t</tspan><tspan  y="0" class="t2">h</tspan><tspan  y="0" class="t2">e</tspan><tspan  y="0" class="t2">r</tspan><tspan  y="0" class="t2"> </tspan><tspan  y="0" class="t2">t</tspan><tspan  y="0" class="t2">e</tspan><tspan  y="0" class="t2">x</tspan><tspan  y="0" class="t2">t
+</tspan>
+	</text>
+</svg>
